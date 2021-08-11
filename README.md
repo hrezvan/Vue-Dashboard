@@ -22,6 +22,8 @@ In the first page of the app we use different components:
     2. Small Widget
     3. Large Widget
 ```
+![1](https://user-images.githubusercontent.com/60284829/129090139-f876da1f-1013-4541-af17-e6e927344226.JPG)
+
 
 ## Featured Info
 
@@ -37,12 +39,25 @@ Small Widget gives information about new joined member and next to each name, we
 In this page we have a table that displays each user's id, status, transaction value. in each row, next to the transaction column we have two buttons:
 
 1. Edit button: by clicking this button, user will navigate to other page (/users/:id). in this page user can check the current profile and edit his or her profile. also user can upload a new image.
+
+![5](https://user-images.githubusercontent.com/60284829/129090449-c1a5ba5e-1794-4615-bb00-4d9235c7accb.JPG)
+
+
 2. Delete button: by clicking this button for each user, the user will be deleted from user list table.
+
+![2](https://user-images.githubusercontent.com/60284829/129090222-4b208aa7-9238-4afd-a192-57a4b79a2488.JPG)
+
 
 ## Add User Page
 
 In this page each user can add a new user by filling and submitting the form.
 
+![3](https://user-images.githubusercontent.com/60284829/129090257-319f36d7-84b1-4605-9158-1ae9ebe9388e.JPG)
+
+
 ## Products Page
 
 The last page is product page. in this page we have a table with different products. There are 5 columns like id, name, image, stock, price and action. user acan delete each product by clicking the red button.
+
+![4](https://user-images.githubusercontent.com/60284829/129090370-09f26515-4675-461b-8183-00cfec3e6323.JPG)
+
